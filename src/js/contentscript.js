@@ -35,6 +35,9 @@ var moon        = ['#eeeeee', '#6bcdff', '#00a1f3', '#48009a', '#4f2266'];
 var psychedelic = ['#eeeeee', '#faafe1', '#fb6dcc', '#fa3fbc', '#ff00ab'];
 var yellow      = ['#eeeeee', '#d7d7a2', '#d4d462', '#e0e03f', '#ffff00'];
 
+// Themes from Contributors
+var christmas   = ['#eeeeee', '#43a047', '#e53935', '#1b5e20', '#b71c1c'];
+
 var colors = {
   github: github,
   halloween: halloween,
@@ -65,7 +68,9 @@ var colors = {
 
   moon: moon,
   psychedelic: psychedelic,
-  yellow: yellow
+  yellow: yellow,
+
+  christmas: christmas
 };
 
 var cssGitHubVars = [
